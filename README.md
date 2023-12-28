@@ -1,19 +1,21 @@
-# NLW-letmeask
+# Letmeask
 
-# Sobre o projeto
+* Leia em [Português](https://github.com/kelvin-feltrin/NLW-letmeask/blob/main/README-pt.md)
 
-A aplicação letmeask é um sistema web desenvolvido durante a [NLW 6 - React](https://app.rocketseat.com.br/ "Site Rocketseat").
+# About the project
 
-O site permite que usuários realizem perguntas através de salas, e os administradores conseguem gerenciar e responder as perguntas mais votadas, consideradas mais relevantes.
+The "letmeask" application is a web system developed during [NLW 6 - React](https://app.rocketseat.com.br/ "Site Rocketseat").
 
-## Layout web
+The site allows users to ask questions through rooms, and administrators can manage and answer the most voted questions, considered most relevant.
+
+## Web Layout
 ![Web 1](https://github.com/kelvin-feltrin/NLW-letmeask/blob/main/assets/web-1.png)
 ![Web 2](https://github.com/kelvin-feltrin/NLW-letmeask/blob/main/assets/web-2.png)
 
-# Tecnologias utilizadas
+# Tech Stack
 - React
 - Firebase
 - TypeScript
 
-# Acesso ao projeto
-A aplicação web pode ser acessada [aqui](https://letmeask-f8b72.web.app/ "Site do projeto")
+# Access to the project
+The web application can be accessed [here](https://letmeask-f8b72.web.app/ "Site do projeto")
